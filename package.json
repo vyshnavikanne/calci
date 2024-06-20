@@ -1,0 +1,26 @@
+{
+  "name": "148",
+  "version": "1.0.0",
+  "main": "calculatortest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "vyshnavi",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.21.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyshnavikanne/calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vyshnavikanne/calculator/issues"
+  },
+  "homepage": "https://github.com/vyshnavikanne/calculator#readme",
+  "description": ""
+}
